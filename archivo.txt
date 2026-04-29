@@ -3,3 +3,4 @@ Linea 2 de prueba
 Linea 3 de prueba
 Versión 1.0 del proyecto
 Mejora menor para la versión 1.1
+Cambios importantes para la versión 2.0
